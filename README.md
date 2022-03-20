@@ -1,4 +1,4 @@
-# Learn React-redux
+# Dt-Money
 
 ## 🚀 Technologies 
 This project was developed with the following technologies:
